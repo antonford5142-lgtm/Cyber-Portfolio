@@ -1,7 +1,7 @@
 # Site settings
 title: Anton Ford-Marshall
 email: Anton.ford.marshall1992@gmail.com
-url: https://antonford5142-lgtm.github.io/cyber-portfolio
+url: https://antonford5142lgtm.github.io/cyber-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: 
+    url:  www.linkedin.com/in/anton-ford-marshall-b9930a3b9
   - title: github
     url: https://github.com/Antonford5142-lgtm
 
