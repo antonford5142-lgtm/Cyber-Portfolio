@@ -26,7 +26,7 @@ disqus_shortname:
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: ff9505 #80B3FF
-  primary-rgb: 255,149,5 #"128,179,5"
+  primary-rgb: 255,149,5 #"128,179,255"
   secondary:  ec4e20 #FD6E8A
   secondary-dark: 353531 #A2122F
 
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url:  www.linkedin.com/in/anton-ford-marshall-b9930a3b9
+    url:  https://www.linkedin.com/in/anton-ford-marshall-b9930a3b9
   - title: github
     url: https://github.com/Antonford5142-lgtm
 
